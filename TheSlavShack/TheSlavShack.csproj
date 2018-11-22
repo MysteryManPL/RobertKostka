@@ -230,6 +230,11 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Content\css\" />
+    <Folder Include="Content\img\" />
+    <Folder Include="Content\js\" />
+    <Folder Include="Content\scss\" />
+    <Folder Include="Content\vendor\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
