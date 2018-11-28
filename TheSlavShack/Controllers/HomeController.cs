@@ -15,6 +15,7 @@ namespace TheSlavShack.Controllers
 
         public ActionResult Index()
         {
+            // im a fagget -Deivis
             return View();
         }
     }
